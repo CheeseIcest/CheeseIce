@@ -1,0 +1,41 @@
+{
+  "squadName" : "最爱作家展示",
+  "homeTown" : "书巢提供",
+  "formed" : 2018,
+  "secretBase" : "书巢",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "柏拉图",
+      "age" : "公元前427年",
+      "secretIdentity" : "阿里斯托勒斯（Arestolus）",
+      "powers" : [
+        "《对话录》",
+        "《理想国》",
+        "《会饮》"
+      ]
+    },
+    {
+      "name" : "刘慈欣",
+      "birthday" : "1963年6月23日",
+      "secretIdentity" : "刘电工",
+      "powers" : [
+        "《三体》",
+        "《超新星纪元》",
+        "《球状闪电》"
+      ]
+    },
+    {
+      "name" : "亚里士多德",
+      "birthday" : "公元前384年",
+      "secretIdentity" : "Αριστοτέλης，Aristotélē",
+      "powers" : [
+        "《工具论》",
+        "《物理学》",
+        "《形而上学》",
+        "《伦理学》",
+        "《政治学》"
+      ]
+    }
+  ]
+}
